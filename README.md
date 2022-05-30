@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he and his
 - ⚡ Fun fact: i love watching Animes
 
-[![Temitayo's github stats](https://github-readme-stats.vercel.app/api?username=Temitayo-spec)](https://github.com/Temitayo-spec/github-readme-stats&theme=blue)
+[![Temitayo's github stats](https://github-readme-stats.vercel.app/api?username=Temitayo-spec)](https://github.com/Temitayo-spec/github-readme-stats&theme=black)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temitayo-spec&theme=blue)
