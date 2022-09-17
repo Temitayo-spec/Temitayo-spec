@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NEXTJS](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next&logoColor=61DAFB)
+![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ### Github Stats
