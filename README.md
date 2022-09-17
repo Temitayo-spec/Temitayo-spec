@@ -20,5 +20,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he and his
 - ⚡ Fun fact: i love watching Animes
 
-[![Temitayo's github stats](https://github-readme-stats.vercel.app/api?username=Temitayo-spec)](https://github.com/Temitayo-spec/github-readme-stats&theme=black)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temitayo-spec&theme=black)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/olawanletemi1)
+[<img src="https://komarev.com/ghpvc/?username=rajman01&label=Profile%20views&color=0e75b6&style=flat" alt="rajman01" />](https://github.com/temitayo-spec/temitayo-spec)
+
+### Tools & Technologies
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NEXTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=Nextjs&logoColor=61DAFB)
+
+![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+
+### Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=temitayo-spec&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="temitayo-spec" />
