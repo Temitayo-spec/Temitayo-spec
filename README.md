@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NEXTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=Nextjs&logoColor=61DAFB)
+![NEXTJS](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next&logoColor=61DAFB)
 
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temitayo-spec&theme=black)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=temitayo-spec&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="temitayo-spec" />
+<img src="https://github-readme-stats.vercel.app/api?username=temitayo-spec&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="temitayo-spec" />
