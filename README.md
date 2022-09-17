@@ -1,6 +1,8 @@
-### Hi there 👋
+![Pretty lights](prettylights.gif)
 
-
+# Hi, I'm Temitayo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/olawanletemi1)
+[<img src="https://komarev.com/ghpvc/?username=temitayo-spec&label=Profile%20views&color=0e75b6&style=flat" alt="temitayo-spec" />](https://github.com/temitayo-spec/temitayo-spec)
 <!--**Temitayo-spec/Temitayo-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,9 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: olawanletemitayo@gmail.com
 - 😄 Pronouns: he and his
 - ⚡ Fun fact: i love watching Animes
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/olawanletemi1)
-[<img src="https://komarev.com/ghpvc/?username=temitayo-spec&label=Profile%20views&color=0e75b6&style=flat" alt="temitayo-spec" />](https://github.com/temitayo-spec/temitayo-spec)
 
 ### Tools & Technologies
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
