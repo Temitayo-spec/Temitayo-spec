@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he and his
 - ⚡ Fun fact: i love watching Animes
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temitayo-spec&theme=black)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/olawanletemi1)
-[<img src="https://komarev.com/ghpvc/?username=rajman01&label=Profile%20views&color=0e75b6&style=flat" alt="rajman01" />](https://github.com/temitayo-spec/temitayo-spec)
+[<img src="https://komarev.com/ghpvc/?username=temitayo-spec&label=Profile%20views&color=0e75b6&style=flat" alt="temitayo-spec" />](https://github.com/temitayo-spec/temitayo-spec)
 
 ### Tools & Technologies
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,5 +44,5 @@ Here are some ideas to get you started:
 
 
 ### Github Stats
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temitayo-spec&theme=black)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=temitayo-spec&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="temitayo-spec" />
