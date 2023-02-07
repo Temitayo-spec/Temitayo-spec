@@ -58,10 +58,6 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-<p align="center"><br>
-  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
-</p>
   
 
 [![Temitayo-spec's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Temitayo-spec&custom_title=Temitayo-spec's%20GitHub%20Activity%20Graph&bg_color=0e2239&text_color=58a6ff&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
