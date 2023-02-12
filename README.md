@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [![Temitayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Temitayo_spec&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--<img src="https://github-readme-stats.vercel.app/api?username=temitayo-spec&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="temitayo-spec" />-->
 <div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
+  <h2> <strong> My Github Stats </strong> </h2>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Temitayo-spec&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Temitayo-spec&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Temitayo-spec&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
