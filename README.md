@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 
 - An enthusiastic and result-driven individual with a strong yearning to learn. Excellent organization, presentation, and time management skills in effectively communicating with people and paying attention to details. He has demonstrated integrity, teamwork, dexterity and leadership skills to effectively work in a professional setting with proven ability to be strategic, tactical and engage in critical thinking in complex problem solving.
 
-- 🔭 I’m currently working on an Edutech platform(Learnovate)
-- 🌱 I’m currently learning Solidity(web3), also profound in HTML, CSS, JavaScript and Frameworks like React and Next.js(State Management and Reducers)
-- 👯 I’m looking to collaborate on Frontend Web Development, and Open-Source Projects
-- 🤔 I’m looking for help with crazy web animations
-- 💬 Ask me about Frontend Web Development and Tech
+- 🔭 I’m currently working on an Hackathon.
+- 🌱 I’m currently learning Backend development, i'm also profound in JavaScript, Typescript and Frameworks like React/Next.js and also Redux/Redux Toolkit (State Management and Reducers)
+- 👯 I’m looking to collaborate on Fullstack web development, and Open-Source Projects
+- 🤔 I’m looking for help with nice web animations with GSAP, framer-motion etc.
+- 💬 Ask me about Frontend Web Development.
 - 📫 How to reach me: olawanletemitayo@gmail.com
-- 😄 Pronouns: he and his
-- ⚡ Fun fact: i love watching Animes
+- 😄 Pronouns: he / his
+- ⚡ Fun fact: i love watching Animes.
 
 ### Tools & Technologies
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
