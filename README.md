@@ -66,3 +66,5 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=Temitayo-spec&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
   <img src="https://streak-stats.demolab.com?user=Temitayo-spec&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 </div>
+
+
