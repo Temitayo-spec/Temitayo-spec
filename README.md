@@ -21,10 +21,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend development, i'm also profound in JavaScript, Typescript and Frameworks like React/Next.js and also Redux/Redux Toolkit (State Management and Reducers)
 
 - 👯 I’m looking to collaborate on Fullstack web development, and Open-Source Projects
+
 - 🤔 I’m looking for help with nice web animations with GSAP, framer-motion etc.
+
 - 💬 Ask me about Frontend Web Development.
+
+
 - 📫 How to reach me: olawanletemitayo@gmail.com
+
 - 😄 Pronouns: he / his
+
 - ⚡ Fun fact: i love watching Animes.
 
 ### Tools & Technologies
