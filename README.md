@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: i love watching Animes.
 
+
 ### Tools & Technologies
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
