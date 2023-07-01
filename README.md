@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/olawanletemi1)
 
 [<img src="https://komarev.com/ghpvc/?username=temitayo-spec&label=Profile%20views&color=0e75b6&style=flat" alt="temitayo-spec" />](https://github.com/temitayo-spec/temitayo-spec)
-
 <!--**Temitayo-spec/Temitayo-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
