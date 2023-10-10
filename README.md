@@ -61,10 +61,10 @@ Here are some ideas to get you started:
 
 [![Temitayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Temitayo_spec&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--<img src="https://github-readme-stats.vercel.app/api?username=temitayo-spec&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="temitayo-spec" />-->
-<div align="center">
+<div align="center" justify="between">
   <h2> <strong> My Github Stats </strong> </h2>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Temitayo-spec&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Temitayo-spec&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Temitayo-spec&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+  <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Temitayo-spec&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Temitayo-spec&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
   <img src="https://streak-stats.demolab.com?user=Temitayo-spec&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 </div>
