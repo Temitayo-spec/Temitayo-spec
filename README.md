@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 > If you are here, you are probably wondering who Olawanle Akinbowale Temitayo is; 
 
-- Temitayo is a penultimate-year University of Lagos student studying Chemical and Petroleum Engineering.
+- Temitayo is a final-year University of Lagos student studying Chemical and Petroleum Engineering.
 
 - An enthusiastic and result-driven individual with an intense yearning to learn. Excellent organization, presentation, and time management skills in effectively communicating with people and paying attention to details. He has demonstrated integrity, teamwork, dexterity, and leadership skills to effectively work in a professional setting with a proven ability to be strategic, and tactical and engage in critical thinking in complex problem solving.
 
