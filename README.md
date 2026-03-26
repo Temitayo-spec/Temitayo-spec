@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 [![Temitayo-spec's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Temitayo-spec&custom_title=Temitayo-spec's%20GitHub%20Activity%20Graph&bg_color=0e2239&text_color=58a6ff&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Temitayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Temitayo_spec&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Temitayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Temitayo-spec&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--<img src="https://github-readme-stats.vercel.app/api?username=temitayo-spec&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="temitayo-spec" />-->
 <div align="center" justify="between">
   <h2> <strong> My Github Stats </strong> </h2>
